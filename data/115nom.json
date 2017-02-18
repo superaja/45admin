@@ -1,0 +1,363 @@
+{
+   "status":"OK",
+   "copyright":"Copyright (c) 2017 Pro Publica Inc. All Rights Reserved.",
+   "results":[
+      {
+         "total_votes": "9",
+         "offset": "0",
+         "votes": [
+           {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "61",
+           "question": "On the Nomination", 
+           "description": "Thomas Price, of Georgia, to be Secretary of Health and Human Services",
+           "vote_type": "1/2",
+           "date": "2017-02-09",
+           "time": "01:46:00",
+           "result": "Nomination Confirmed",
+           "nominee_uri": "https://api.propublica.org/congress/v1/115/nominees/PN33.json",
+           "democratic": {
+             "yes": "0",
+             "no": "45",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "52",
+             "no": "47",
+             "present": "0",
+             "not_voting": "1",
+             "margin": "5"
+            }
+         },
+                  {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "59",
+           "question": "On the Nomination", 
+           "description": "Jeff Sessions, of Alabama, to be Attorney General",
+           "vote_type": "1/2",
+           "date": "2017-02-08",
+           "time": "18:58:00",
+           "result": "Nomination Confirmed",
+           "nominee_uri": "https://api.propublica.org/congress/v1/115/nominees/PN30.json",
+           "democratic": {
+             "yes": "1",
+             "no": "45",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "1",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "52",
+             "no": "47",
+             "present": "1",
+             "not_voting": "0",
+             "margin": "5"
+            }
+         },
+                  {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "54",
+           "question": "On the Nomination", 
+           "description": "Elisabeth Prince DeVos, of Michigan, to be Secretary of Education",
+           "vote_type": "1/2",
+           "date": "2017-02-07",
+           "time": "12:02:00",
+           "result": "Nomination Confirmed",
+           "nominee_uri": "https://api.propublica.org/congress/v1/115/nominees/PN37.json",
+           "democratic": {
+             "yes": "0",
+             "no": "46",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "50",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "0",
+             "no": "2",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "50",
+             "no": "50",
+             "present": "0",
+             "not_voting": "0",
+             "margin": "0"
+            }
+         },
+                  {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "36",
+           "question": "On the Nomination", 
+           "description": "Rex W. Tillerson, of Texas, to be Secretary of State",
+           "vote_type": "1/2",
+           "date": "2017-02-01",
+           "time": "14:31:00",
+           "result": "Nomination Confirmed",
+           "nominee_uri": "https://api.propublica.org/congress/v1/115/nominees/PN25.json",
+           "democratic": {
+             "yes": "3",
+             "no": "42",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "56",
+             "no": "43",
+             "present": "0",
+             "not_voting": "1",
+             "margin": "13"
+            }
+         },
+                  {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "35",
+           "question": "On the Nomination", 
+           "description": "Elaine L. Chao, of Kentucky, to be Secretary of Transportation",
+           "vote_type": "1/2",
+           "date": "2017-01-31",
+           "time": "12:33:00",
+           "result": "Nomination Confirmed",
+           "nominee_uri": "https://api.propublica.org/congress/v1/115/nominees/PN35.json",
+           "democratic": {
+             "yes": "41",
+             "no": "5",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "1",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "93",
+             "no": "6",
+             "present": "1",
+             "not_voting": "0",
+             "margin": "87"
+            }
+         },
+                  {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "33",
+           "question": "On the Nomination", 
+           "description": "Nikki R. Haley, of South Carolina, to be Representative of the United States of America to the Sessions of the General Assembly of the United Nations during her tenure of service as Representative of the United States of America to the United Nations; and Nikki R. Haley, of South Carolina, to be the Representative of the United States of America to the United Nations, with the rank and status of Ambassador, and the Representative of the United States of America in the Security Council of the United Nations",
+           "vote_type": "1/2",
+           "date": "2017-01-24",
+           "time": "17:31:00",
+           "result": "Nomination Confirmed",
+           "nominee_uri": "https://api.propublica.org/congress/v1/115/nominees/PN50.json",
+           "democratic": {
+             "yes": "43",
+             "no": "3",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "52",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "96",
+             "no": "4",
+             "present": "0",
+             "not_voting": "0",
+             "margin": "92"
+            }
+         },
+                  {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "32",
+           "question": "On the Nomination", 
+           "description": "Mike Pompeo, of Kansas, to be Director of the Central Intelligence Agency",
+           "vote_type": "1/2",
+           "date": "2017-01-23",
+           "time": "19:01:00",
+           "result": "Nomination Confirmed",
+           "nominee_uri": "https://api.propublica.org/congress/v1/115/nominees/PN43.json",
+           "democratic": {
+             "yes": "14",
+             "no": "30",
+             "present": "0",
+             "not_voting": "2",
+             "majority_position": "No"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "1",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "66",
+             "no": "32",
+             "present": "0",
+             "not_voting": "2",
+             "margin": "34"
+            }
+         },
+                  {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "30",
+           "question": "On the Nomination", 
+           "description": "John F. Kelly, of Virginia, to be Secretary of Homeland Security",
+           "vote_type": "1/2",
+           "date": "2017-01-20",
+           "time": "17:57:00",
+           "result": "Nomination Confirmed",
+           "nominee_uri": "https://api.propublica.org/congress/v1/115/nominees/PN40.json",
+           "democratic": {
+             "yes": "35",
+             "no": "11",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "88",
+             "no": "11",
+             "present": "0",
+             "not_voting": "1",
+             "margin": "77"
+            }
+         },
+                  {
+           "congress": "115",
+           "session": "1",
+           "roll_call": "29",
+           "question": "On the Nomination", 
+           "description": "James Mattis, of Washington, to be Secretary of Defense",
+           "vote_type": "1/2",
+           "date": "2017-01-20",
+           "time": "16:55:00",
+           "result": "Nomination Confirmed",
+           "nominee_uri": "https://api.propublica.org/congress/v1/115/nominees/PN29.json",
+           "democratic": {
+             "yes": "45",
+             "no": "1",
+             "present": "0",
+             "not_voting": "0",
+             "majority_position": "Yes"
+            },
+           "republican": {
+             "yes": "51",
+             "no": "0",
+             "present": "0",
+             "not_voting": "1",
+             "majority_position": "Yes"
+            },
+           "independent": {
+             "yes": "2",
+             "no": "0",
+             "present": "0",
+             "not_voting": "0"
+            },
+           "total": {
+             "yes": "98",
+             "no": "1",
+             "present": "0",
+             "not_voting": "1",
+             "margin": "97"
+            }
+         }
+       ]
+    }
+  ]
+}
