@@ -1,102 +1,102 @@
-domain,first_name,member_id,last_name,middle_name,missed_votes,missed_votes_pct,next_election,party,seniority,state,total_present,total_votes,twitter_account,url,votes_with_party_pct
-,Lamar,A000360,Alexander,,1,1.39,2020,R,15,TN,0,72,SenAlexander,https://www.alexander.senate.gov/public/index.cfm/home,98.59
-,Roy,B000575,Blunt,,2,2.78,2022,R,7,MO,0,72,RoyBlunt,http://www.blunt.senate.gov/public,98.57
-www.brown.senate.gov,Sherrod,B000944,Brown,,0,0.0,2018,D,5,OH,0,72,SenSherrodBrown,https://www.brown.senate.gov,98.61
-burr.senate.gov,Richard,B001135,Burr,M.,0,0.0,2022,R,13,NC,0,72,SenatorBurr,http://www.burr.senate.gov,100.0
-baldwin.senate.gov,Tammy,B001230,Baldwin,,0,0.0,2018,D,5,WI,0,72,SenatorBaldwin,https://www.baldwin.senate.gov,97.22
-,John,B001236,Boozman,,0,0.0,2022,R,7,AR,0,72,JohnBoozman,https://www.boozman.senate.gov/public/index.cfm/home,97.22
-www.barrasso.senate.gov,John,B001261,Barrasso,,0,0.0,2018,R,11,WY,0,72,SenJohnBarrasso,http://www.barrasso.senate.gov,98.61
-www.bennet.senate.gov,Michael,B001267,Bennet,,0,0.0,2022,D,9,CO,0,72,SenBennetCo,https://www.bennet.senate.gov,97.22
-,Richard,B001277,Blumenthal,,1,1.39,2022,D,7,CT,0,72,SenBlumenthal,https://www.blumenthal.senate.gov,95.77
-www.booker.senate.gov/,Cory,B001288,Booker,,0,0.0,2020,D,5,NJ,0,72,CoryBooker,http://www.booker.senate.gov,91.67
-www.cantwell.senate.gov,Maria,C000127,Cantwell,,0,0.0,2018,D,17,WA,0,72,SenatorCantwell,https://www.cantwell.senate.gov,98.61
-www.cardin.senate.gov,Benjamin,C000141,Cardin,L.,0,0.0,2018,D,11,MD,0,72,SenatorCardin,https://www.cardin.senate.gov,100.0
-www.carper.senate.gov,Thomas,C000174,Carper,R.,5,6.94,2018,D,17,DE,0,72,SenatorCarper,http://www.carper.senate.gov/public,97.01
-,Thad,C000567,Cochran,,0,0.0,2020,R,39,MS,0,72,SenThadCochran,http://www.cochran.senate.gov,98.61
-crapo.senate.gov,Michael,C000880,Crapo,D.,0,0.0,2022,R,19,ID,0,72,MikeCrapo,http://www.crapo.senate.gov,98.61
-,Susan,C001035,Collins,,0,0.0,2020,R,21,ME,0,72,SenatorCollins,https://www.collins.senate.gov,81.94
-www.capito.senate.gov,Shelley,C001047,Capito,Moore,0,0.0,2020,R,3,WV,0,72,SenCapito,https://www.capito.senate.gov,97.22
-www.cornyn.senate.gov,John,C001056,Cornyn,,0,0.0,2020,R,15,TX,0,72,JohnCornyn,https://www.cornyn.senate.gov,98.61
-www.casey.senate.gov,Bob,C001070,Casey,,0,0.0,2018,D,11,PA,0,72,SenBobCasey,https://www.casey.senate.gov,98.61
-www.corker.senate.gov,Bob,C001071,Corker,,0,0.0,2018,R,11,TN,0,72,SenBobCorker,http://www.corker.senate.gov,100.0
-www.cassidy.senate.gov,Bill,C001075,Cassidy,,1,1.39,2020,R,3,LA,0,72,,http://www.cassidy.senate.gov,100.0
-,Christopher,C001088,Coons,A.,10,13.89,2020,D,9,DE,0,72,SenCoonsOffice,https://www.coons.senate.gov,95.16
-,Tom,C001095,Cotton,,0,0.0,2020,R,3,AR,0,72,SenTomCotton,https://www.cotton.senate.gov,100.0
-cruz.senate.gov,Ted,C001098,Cruz,,3,4.17,2018,R,5,TX,0,72,SenTedCruz,https://www.cruz.senate.gov,95.65
-,Catherine,C001113,Cortez Masto,,0,0.0,2022,D,1,NV,0,72,sencortezmasto,https://www.cortezmasto.senate.gov,97.22
-www.durbin.senate.gov,Richard,D000563,Durbin,J.,2,2.78,2020,D,21,IL,0,72,SenatorDurbin,http://www.durbin.senate.gov,95.71
-www.donnelly.senate.gov,Joe,D000607,Donnelly,,3,4.17,2018,D,5,IN,0,72,SenDonnelly,http://www.donnelly.senate.gov,89.86
-www.daines.senate.gov,Steve,D000618,Daines,,0,0.0,2020,R,3,MT,0,72,SteveDaines,https://www.daines.senate.gov,98.61
-duckworth.house.gov,Tammy,D000622,Duckworth,,0,0.0,2022,D,1,IL,0,72,SenDuckworth,https://www.duckworth.senate.gov,97.22
-,Michael,E000285,Enzi,B.,0,0.0,2020,R,21,WY,0,72,SenatorEnzi,http://www.enzi.senate.gov,98.61
-,Joni,E000295,Ernst,,0,0.0,2020,R,3,IA,0,72,SenJoniErnst,http://www.ernst.senate.gov/public,100.0
-www.feinstein.senate.gov,Dianne,F000062,Feinstein,,24,33.33,2018,D,25,CA,0,72,SenFeinstein,http://www.feinstein.senate.gov,95.83
-flake.senate.gov,Jeff,F000444,Flake,,1,1.39,2018,R,5,AZ,0,72,JeffFlake,http://www.flake.senate.gov/public,97.18
-,Al,F000457,Franken,,0,0.0,2020,D,9,MN,0,72,SenFranken,https://www.franken.senate.gov,100.0
-fischer.senate.gov,Deb,F000463,Fischer,,0,0.0,2018,R,5,NE,0,72,SenatorFischer,http://www.fischer.senate.gov,100.0
-,Lindsey,G000359,Graham,,3,4.17,2020,R,15,SC,0,72,GrahamBlog,https://www.lgraham.senate.gov/public,100.0
-,Charles,G000386,Grassley,E.,0,0.0,2022,R,37,IA,0,72,ChuckGrassley,http://www.grassley.senate.gov,95.83
-www.gillibrand.senate.gov,Kirsten,G000555,Gillibrand,E.,0,0.0,2018,D,9,NY,0,72,SenGillibrand,https://www.gillibrand.senate.gov,91.67
-www.gardner.senate.gov,Cory,G000562,Gardner,,0,0.0,2020,R,3,CO,0,72,SenCoryGardner,https://www.gardner.senate.gov,100.0
-www.hatch.senate.gov,Orrin,H000338,Hatch,G.,0,0.0,2018,R,41,UT,0,72,SenOrrinHatch,http://www.hatch.senate.gov,97.22
-www.heller.senate.gov,Dean,H001041,Heller,,0,0.0,2018,R,7,NV,0,72,SenDeanHeller,http://www.heller.senate.gov/public,87.5
-hirono.senate.gov,Mazie,H001042,Hirono,K.,0,0.0,2018,D,5,HI,0,72,MazieHirono,https://www.hirono.senate.gov,100.0
-www.heinrich.senate.gov,Martin,H001046,Heinrich,,1,1.39,2018,D,5,NM,0,72,MartinHeinrich,http://www.heinrich.senate.gov,94.37
-www.hoeven.senate.gov,John,H001061,Hoeven,,0,0.0,2022,R,7,ND,0,72,SenJohnHoeven,https://www.hoeven.senate.gov,100.0
-www.heitkamp.senate.gov,Heidi,H001069,Heitkamp,,0,0.0,2018,D,5,ND,0,72,SenatorHeitkamp,http://www.heitkamp.senate.gov/public,80.56
-www.harris.senate.gov,Kamala,H001075,Harris,,0,0.0,2022,D,1,CA,0,72,,https://www.harris.senate.gov,97.22
-,Margaret,H001076,Hassan,,0,0.0,2022,D,1,NH,0,72,Senatorhassan,https://www.hassan.senate.gov,97.22
-www.inhofe.senate.gov,James,I000024,Inhofe,M.,0,0.0,2020,R,25,OK,0,72,InhofePress,http://www.inhofe.senate.gov,100.0
-,Johnny,I000055,Isakson,,3,4.17,2022,R,13,GA,0,72,SenatorIsakson,http://www.isakson.senate.gov,98.55
-www.ronjohnson.senate.gov,Ron,J000293,Johnson,,0,0.0,2022,R,7,WI,0,72,SenRonJohnson,https://www.ronjohnson.senate.gov,100.0
-www.klobuchar.senate.gov,Amy,K000367,Klobuchar,,0,0.0,2018,D,11,MN,0,72,,http://www.klobuchar.senate.gov,97.22
-king.senate.gov,Angus,K000383,King,,0,0.0,2018,I,5,ME,0,72,SenAngusKing,http://www.king.senate.gov,86.11
-kaine.senate.gov,Tim,K000384,Kaine,,1,1.39,2018,D,5,VA,0,72,SenKaineOffice,http://www.kaine.senate.gov,97.18
-,John,K000393,Kennedy,,0,0.0,2022,R,1,LA,0,72,SenJohnKennedy,https://www.kennedy.senate.gov,95.83
-www.leahy.senate.gov,Patrick,L000174,Leahy,J.,0,0.0,2022,D,43,VT,0,72,SenatorLeahy,https://www.leahy.senate.gov,98.61
-www.lankford.senate.gov,James,L000575,Lankford,,0,0.0,2022,R,3,OK,0,72,SenatorLankford,https://www.lankford.senate.gov,98.61
-www.lee.senate.gov,Mike,L000577,Lee,,0,0.0,2022,R,7,UT,0,72,SenMikeLee,https://www.lee.senate.gov/public,95.83
-markey.senate.gov,Edward,M000133,Markey,J.,1,1.39,2020,D,5,MA,0,72,SenMarkey,http://www.markey.senate.gov,97.18
-www.mccain.senate.gov,John,M000303,McCain,,3,4.17,2022,R,31,AZ,0,72,SenJohnMcCain,http://www.mccain.senate.gov,97.1
-,Mitch,M000355,McConnell,,0,0.0,2020,R,33,KY,1,72,McConnellPress,http://www.mcconnell.senate.gov,97.22
-menendez.senate.gov,Robert,M000639,Menendez,,0,0.0,2018,D,12,NJ,0,72,SenatorMenendez,https://www.menendez.senate.gov,97.22
-www.moran.senate.gov/public/,Jerry,M000934,Moran,,1,1.39,2022,R,7,KS,0,72,JerryMoran,http://www.moran.senate.gov,98.59
-,Patty,M001111,Murray,,0,0.0,2022,D,25,WA,0,72,PattyMurray,http://www.murray.senate.gov/public,95.83
-www.murkowski.senate.gov,Lisa,M001153,Murkowski,,1,1.39,2022,R,17,AK,0,72,LisaMurkowski,https://www.murkowski.senate.gov,97.18
-murphy.senate.gov,Christopher,M001169,Murphy,S.,2,2.78,2018,D,5,CT,0,72,ChrisMurphyCT,https://www.murphy.senate.gov,98.57
-www.mccaskill.senate.gov,Claire,M001170,McCaskill,,2,2.78,2018,D,11,MO,0,72,McCaskillOffice,https://www.mccaskill.senate.gov,94.29
-,Jeff,M001176,Merkley,,0,0.0,2020,D,9,OR,0,72,SenJeffMerkley,https://www.merkley.senate.gov,93.06
-www.manchin.senate.gov,Joe,M001183,Manchin III,,0,0.0,2018,D,9,WV,0,72,Sen_JoeManchin,http://www.manchin.senate.gov/public,77.78
-billnelson.senate.gov,Bill,N000032,Nelson,,0,0.0,2018,D,17,FL,0,72,SenBillNelson,https://www.billnelson.senate.gov,98.61
-,Rob,P000449,Portman,,0,0.0,2022,R,7,OH,0,72,SenRobPortman,http://www.portman.senate.gov,97.22
-peters.house.gov,Gary,P000595,Peters,,0,0.0,2020,D,3,MI,0,72,SenGaryPeters,https://www.peters.senate.gov,100.0
-,Rand,P000603,Paul,,0,0.0,2022,R,7,KY,0,72,,https://www.paul.senate.gov,90.28
-www.perdue.senate.gov,David,P000612,Perdue,,0,0.0,2020,R,3,GA,0,72,sendavidperdue,http://www.perdue.senate.gov,98.61
-,Jack,R000122,Reed,,0,0.0,2020,D,21,RI,0,72,SenJackReed,https://www.reed.senate.gov,97.22
-,Pat,R000307,Roberts,,0,0.0,2020,R,21,KS,0,72,SenPatRoberts,http://www.roberts.senate.gov,98.61
-www.risch.senate.gov,Jim,R000584,Risch,,0,0.0,2020,R,9,ID,0,72,SenatorRisch,http://www.risch.senate.gov,98.61
-www.rubio.senate.gov/public/,Marco,R000595,Rubio,,0,0.0,2022,R,7,FL,0,72,SenRubioPress,http://www.rubio.senate.gov,95.83
-,Mike,R000605,Rounds,,0,0.0,2020,R,3,SD,0,72,SenatorRounds,http://www.rounds.senate.gov,98.61
-www.sanders.senate.gov,Bernard,S000033,Sanders,,3,4.17,2018,I,11,VT,0,72,SenSanders,https://www.sanders.senate.gov,92.75
-www.schumer.senate.gov,Charles,S000148,Schumer,E.,0,0.0,2022,D,19,NY,0,72,SenSchumer,https://www.schumer.senate.gov,95.83
-www.shelby.senate.gov,Richard,S000320,Shelby,C.,0,0.0,2022,R,31,AL,0,72,SenShelby,http://www.shelby.senate.gov,98.61
-www.stabenow.senate.gov,Debbie,S000770,Stabenow,,0,0.0,2018,D,17,MI,0,72,SenStabenow,http://www.stabenow.senate.gov,100.0
-sessions.senate.gov,Jeff,S001141,Sessions,,39,65.0,2020,R,21,AL,2,60,SenatorSessions,http://www.sessions.senate.gov/public,90.48
-www.shaheen.senate.gov,Jeanne,S001181,Shaheen,,0,0.0,2020,D,9,NH,0,72,SenatorShaheen,https://www.shaheen.senate.gov,97.22
-scott.senate.gov,Tim,S001184,Scott,,0,0.0,2022,R,5,SC,0,72,SenatorTimScott,https://www.scott.senate.gov,98.61
-,Brian,S001194,Schatz,,0,0.0,2022,D,5,HI,0,72,SenBrianSchatz,http://www.schatz.senate.gov,95.83
-www.sasse.senate.gov,Ben,S001197,Sasse,,1,1.39,2020,R,3,NE,0,72,SenSasse,http://www.sasse.senate.gov/public,97.18
-,Dan,S001198,Sullivan,,0,0.0,2020,R,3,AK,0,72,SenDanSullivan,http://www.sullivan.senate.gov,100.0
-,Luther,S001202,Strange,,0,0.0,2020,R,1,AL,0,12,,,100.0
-,John,T000250,Thune,,0,0.0,2022,R,13,SD,0,72,SenJohnThune,https://www.thune.senate.gov,98.61
-,Patrick,T000461,Toomey,J.,1,1.39,2022,R,7,PA,0,72,SenToomey,http://www.toomey.senate.gov,97.18
-www.tester.senate.gov,Jon,T000464,Tester,,0,0.0,2018,D,11,MT,0,72,SenatorTester,http://www.tester.senate.gov,94.44
-www.tillis.senate.gov,Thom,T000476,Tillis,,5,6.94,2020,R,3,NC,0,72,senthomtillis,https://www.tillis.senate.gov/public/index.cfm/home,100.0
-,Tom,U000039,Udall,,1,1.39,2020,D,10,NM,0,72,SenatorTomUdall,http://www.tomudall.senate.gov,92.96
-www.vanhollen.senate.gov,Chris,V000128,Van Hollen,,0,0.0,2022,D,1,MD,0,72,ChrisVanHollen,https://www.vanhollen.senate.gov,95.83
-wicker.senate.gov,Roger,W000437,Wicker,,0,0.0,2018,R,11,MS,0,72,SenatorWicker,http://www.wicker.senate.gov,95.83
-www.wyden.senate.gov,Ron,W000779,Wyden,,0,0.0,2022,D,22,OR,0,72,RonWyden,https://www.wyden.senate.gov,94.44
-www.whitehouse.senate.gov,Sheldon,W000802,Whitehouse,,0,0.0,2018,D,11,RI,0,72,SenWhitehouse,https://www.whitehouse.senate.gov,97.22
-www.warner.senate.gov/public/,Mark,W000805,Warner,,3,4.17,2020,D,9,VA,0,72,MarkWarner,http://www.warner.senate.gov,91.3
-www.warren.senate.gov,Elizabeth,W000817,Warren,,0,0.0,2018,D,5,MA,0,72,SenWarren,http://www.warren.senate.gov,93.06
-www.young.senate.gov,Todd,Y000064,Young,,0,0.0,2022,R,1,IN,0,72,RepToddYoung,https://www.young.senate.gov,100.0
+crp_id,cspan_id,domain,first_name,govtrack_id,icpsr_id,member_id,in_office,last_name,leadership_role,lis_id,middle_name,missed_votes,missed_votes_pct,next_election,ocd_id,office,party,phone,senate_class,seniority,state,state_rank,total_present,total_votes,twitter_account,url,votes_with_party_pct,votesmart_id
+N00009888,5,,Lamar,300002,40304.0,A000360,True,Alexander,,S289,,3,3.23,2020,ocd-division/country:us/state:tn,455 Dirksen Senate Office Building,R,202-224-4944,2,15,TN,senior,0,93,SenAlexander,https://www.alexander.senate.gov/public/index.cfm/home,98.89,15691.0
+N00005195,45465,,Roy,400034,29735.0,B000575,True,Blunt,,S342,,2,2.15,2022,ocd-division/country:us/state:mo,260 Russell Senate Office Building,R,202-224-5721,3,7,MO,junior,0,93,RoyBlunt,http://www.blunt.senate.gov/public,98.9,418.0
+N00003535,5051,www.brown.senate.gov,Sherrod,400050,29389.0,B000944,True,Brown,,S307,,0,0.0,2018,ocd-division/country:us/state:oh,713 Hart Senate Office Building,D,202-224-2315,1,5,OH,senior,0,93,SenSherrodBrown,https://www.brown.senate.gov,94.62,27018.0
+N00002221,31054,burr.senate.gov,Richard,400054,29548.0,B001135,True,Burr,,S300,M.,0,0.0,2022,ocd-division/country:us/state:nc,,R,202-224-3154,3,13,NC,senior,0,93,SenatorBurr,http://www.burr.senate.gov,100.0,21787.0
+N00004367,57884,baldwin.senate.gov,Tammy,400013,29940.0,B001230,True,Baldwin,,S354,,0,0.0,2018,ocd-division/country:us/state:wi,709 Hart,D,202-224-5653,1,5,WI,junior,0,93,SenatorBaldwin,https://www.baldwin.senate.gov,95.7,3470.0
+N00013873,92069,,John,400040,20101.0,B001236,True,Boozman,,S343,,0,0.0,2022,ocd-division/country:us/state:ar,141 Hart Senate Office Building,R,202-224-4843,3,7,AR,senior,0,93,JohnBoozman,https://www.boozman.senate.gov/public/index.cfm/home,97.85,27958.0
+N00006236,1024777,www.barrasso.senate.gov,John,412251,40707.0,B001261,True,Barrasso,,S317,,1,1.08,2018,ocd-division/country:us/state:wy,307 Dirksen Senate Office Building,R,202-224-6441,1,11,WY,junior,0,93,SenJohnBarrasso,http://www.barrasso.senate.gov,98.91,52662.0
+N00030608,1031622,www.bennet.senate.gov,Michael,412330,40910.0,B001267,True,Bennet,,S330,,0,0.0,2022,ocd-division/country:us/state:co,261 Russell Senate Office Building,D,202-224-5852,3,9,CO,senior,0,93,SenBennetCo,https://www.bennet.senate.gov,94.62,110942.0
+N00031685,21799,,Richard,412490,41101.0,B001277,True,Blumenthal,,S341,,1,1.08,2022,ocd-division/country:us/state:ct,706 Hart Senate Office Building,D,202-224-2823,3,7,CT,senior,0,93,SenBlumenthal,https://www.blumenthal.senate.gov,96.74,1568.0
+N00035267,84679,www.booker.senate.gov/,Cory,412598,41308.0,B001288,True,Booker,,S370,,0,0.0,2020,ocd-division/country:us/state:nj,,D,202-224-3224,2,5,NJ,junior,0,93,CoryBooker,http://www.booker.senate.gov,90.32,76151.0
+N00007836,26137,www.cantwell.senate.gov,Maria,300018,39310.0,C000127,True,Cantwell,,S275,,0,0.0,2018,ocd-division/country:us/state:wa,511 Hart Senate Office Building,D,202-224-3441,1,17,WA,junior,0,93,SenatorCantwell,https://www.cantwell.senate.gov,98.92,27122.0
+N00001955,4004,www.cardin.senate.gov,Benjamin,400064,15408.0,C000141,True,Cardin,,S308,L.,0,0.0,2018,ocd-division/country:us/state:md,509 Hart Senate Office Building,D,202-224-4524,1,11,MD,senior,0,93,SenatorCardin,https://www.cardin.senate.gov,97.85,26888.0
+N00012508,663,www.carper.senate.gov,Thomas,300019,15015.0,C000174,True,Carper,,S277,R.,5,5.38,2018,ocd-division/country:us/state:de,513 Hart Senate Office Building,D,202-224-2441,1,17,DE,senior,0,93,SenatorCarper,https://www.carper.senate.gov/public,94.32,22421.0
+N00003328,1200,,Thad,300023,14009.0,C000567,True,Cochran,,S136,,0,0.0,2020,ocd-division/country:us/state:ms,113 Dirksen Senate Office Building,R,202-224-5054,2,39,MS,senior,0,93,SenThadCochran,http://www.cochran.senate.gov,98.92,53312.0
+N00006267,26440,crapo.senate.gov,Michael,300030,29345.0,C000880,True,Crapo,,S266,D.,0,0.0,2022,ocd-division/country:us/state:id,,R,202-224-6142,3,19,ID,senior,0,93,MikeCrapo,http://www.crapo.senate.gov,98.92,26830.0
+N00000491,45738,,Susan,300025,49703.0,C001035,True,Collins,,S252,,0,0.0,2020,ocd-division/country:us/state:me,413 Dirksen Senate Office Building,R,202-224-2523,2,21,ME,senior,0,93,SenatorCollins,https://www.collins.senate.gov,86.02,379.0
+N00009771,83737,www.capito.senate.gov,Shelley,400061,20146.0,C001047,True,Capito,,S372,Moore,0,0.0,2020,ocd-division/country:us/state:wv,,R,202-224-6472,2,3,WV,junior,0,93,SenCapito,https://www.capito.senate.gov,97.85,11701.0
+N00024852,93131,www.cornyn.senate.gov,John,300027,40305.0,C001056,True,Cornyn,,S287,,0,0.0,2020,ocd-division/country:us/state:tx,517 Hart Senate Office Building,R,202-224-2934,2,15,TX,senior,0,93,JohnCornyn,https://www.cornyn.senate.gov,98.92,15375.0
+N00027503,47036,www.casey.senate.gov,Bob,412246,40703.0,C001070,True,Casey,,S309,,0,0.0,2018,ocd-division/country:us/state:pa,393 Russell Senate Office Building,D,202-224-6324,1,11,PA,senior,0,93,SenBobCasey,https://www.casey.senate.gov,97.85,2541.0
+N00027441,1021114,www.corker.senate.gov,Bob,412248,40705.0,C001071,True,Corker,,S310,,2,2.15,2018,ocd-division/country:us/state:tn,425 Dirksen Senate Office Building,R,202-224-3344,1,11,TN,junior,0,93,SenBobCorker,http://www.corker.senate.gov,100.0,65905.0
+N00030245,1030546,www.cassidy.senate.gov,Bill,412269,20919.0,C001075,True,Cassidy,,S373,,1,1.08,2020,ocd-division/country:us/state:la,,R,202-224-5824,2,3,LA,senior,0,93,,http://www.cassidy.senate.gov,100.0,69494.0
+N00031820,9269028,,Christopher,412390,40916.0,C001088,True,Coons,,S337,A.,10,10.75,2020,ocd-division/country:us/state:de,127a Russell Senate Office Building,D,202-224-5042,2,9,DE,junior,0,93,SenCoonsOffice,https://www.coons.senate.gov,92.77,122834.0
+N00033363,63928,,Tom,412508,21301.0,C001095,True,Cotton,,S374,,0,0.0,2020,ocd-division/country:us/state:ar,,R,202-224-2353,2,3,AR,junior,0,93,SenTomCotton,https://www.cotton.senate.gov,100.0,135651.0
+N00033085,1019953,cruz.senate.gov,Ted,412573,41304.0,C001098,True,Cruz,,S355,,3,3.23,2018,ocd-division/country:us/state:tx,,R,202-224-5922,1,5,TX,junior,0,93,SenTedCruz,https://www.cruz.senate.gov,96.67,135705.0
+N00037161,105698,,Catherine,412681,,C001113,True,Cortez Masto,,S385,,0,0.0,2022,ocd-division/country:us/state:nv,,D,202-224-3542,3,1,NV,junior,0,93,sencortezmasto,https://www.cortezmasto.senate.gov,91.4,69579.0
+N00004981,6741,www.durbin.senate.gov,Richard,300038,15021.0,D000563,True,Durbin,,S253,J.,2,2.15,2020,ocd-division/country:us/state:il,711 Hart Senate Office Building,D,202-224-2152,2,21,IL,senior,0,93,SenatorDurbin,http://www.durbin.senate.gov,96.7,26847.0
+N00026586,1012000,www.donnelly.senate.gov,Joe,412205,20717.0,D000607,True,Donnelly,,S356,,3,3.23,2018,ocd-division/country:us/state:in,,D,202-224-4814,1,5,IN,senior,0,93,SenDonnelly,http://www.donnelly.senate.gov,81.11,34212.0
+N00033054,1034037,www.daines.senate.gov,Steve,412549,21338.0,D000618,True,Daines,,S375,,0,0.0,2020,ocd-division/country:us/state:mt,,R,202-224-2651,2,3,MT,junior,0,93,SteveDaines,https://www.daines.senate.gov,98.92,135720.0
+N00027860,94484,duckworth.house.gov,Tammy,412533,21325.0,D000622,True,Duckworth,,S386,,0,0.0,2022,ocd-division/country:us/state:il,,D,202-224-2854,3,1,IL,junior,0,93,SenDuckworth,https://www.duckworth.senate.gov,94.62,57442.0
+N00006249,45824,,Michael,300041,49706.0,E000285,True,Enzi,,S254,B.,0,0.0,2020,ocd-division/country:us/state:wy,379a Russell Senate Office Building,R,202-224-3424,2,21,WY,senior,0,93,SenatorEnzi,http://www.enzi.senate.gov,98.92,558.0
+N00035483,75342,,Joni,412667,41502.0,E000295,True,Ernst,,S376,,0,0.0,2020,ocd-division/country:us/state:ia,,R,202-224-3254,2,3,IA,junior,0,93,SenJoniErnst,http://www.ernst.senate.gov/public,100.0,128583.0
+N00007364,13061,www.feinstein.senate.gov,Dianne,300043,49300.0,F000062,True,Feinstein,,S221,,24,25.81,2018,ocd-division/country:us/state:ca,331 Hart Senate Office Building,D,202-224-3841,1,25,CA,senior,0,93,SenFeinstein,http://www.feinstein.senate.gov,94.2,53273.0
+N00009573,87582,flake.senate.gov,Jeff,400134,20100.0,F000444,True,Flake,,S358,,2,2.15,2018,ocd-division/country:us/state:az,,R,202-224-4521,1,5,AZ,junior,0,93,JeffFlake,http://www.flake.senate.gov/public,97.8,28128.0
+N00029016,23334,www.franken.senate.gov,Al,412378,40904.0,F000457,True,Franken,,S332,,0,0.0,2020,ocd-division/country:us/state:mn,309 Hart Senate Office Building,D,202-224-5641,2,9,MN,junior,0,93,SenFranken,https://www.franken.senate.gov,100.0,108924.0
+N00033443,1034067,fischer.senate.gov,Deb,412556,41302.0,F000463,True,Fischer,,S357,,0,0.0,2018,ocd-division/country:us/state:ne,,R,202-224-6551,1,5,NE,senior,0,93,SenatorFischer,http://www.fischer.senate.gov,100.0,41963.0
+N00009975,36782,,Lindsey,300047,29566.0,G000359,True,Graham,,S293,,3,3.23,2020,ocd-division/country:us/state:sc,290 Russell Senate Office Building,R,202-224-5972,2,15,SC,senior,0,93,GrahamBlog,https://www.lgraham.senate.gov/public,100.0,21992.0
+N00001758,1167,,Charles,300048,14226.0,G000386,True,Grassley,,S153,E.,0,0.0,2022,ocd-division/country:us/state:ia,,R,202-224-3744,3,37,IA,senior,0,93,ChuckGrassley,http://www.grassley.senate.gov,96.77,53293.0
+N00027658,1022862,www.gillibrand.senate.gov,Kirsten,412223,20735.0,G000555,True,Gillibrand,,S331,E.,0,0.0,2018,ocd-division/country:us/state:ny,478 Russell Senate Office Building,D,202-224-4451,1,9,NY,junior,0,93,SenGillibrand,https://www.gillibrand.senate.gov,90.32,65147.0
+N00030780,623308,www.gardner.senate.gov,Cory,412406,21112.0,G000562,True,Gardner,,S377,,0,0.0,2020,ocd-division/country:us/state:co,,R,202-224-5941,2,3,CO,junior,0,93,SenCoryGardner,https://www.gardner.senate.gov,100.0,30004.0
+N00009869,189,www.hatch.senate.gov,Orrin,300052,14503.0,H000338,True,Hatch,,S118,G.,0,0.0,2018,ocd-division/country:us/state:ut,104 Hart Senate Office Building,R,202-224-5251,1,41,UT,senior,0,93,SenOrrinHatch,http://www.hatch.senate.gov,97.85,53352.0
+N00027522,1012368,www.heller.senate.gov,Dean,412218,20730.0,H001041,True,Heller,,S352,,0,0.0,2018,ocd-division/country:us/state:nv,,R,202-224-6244,1,7,NV,senior,0,93,SenDeanHeller,http://www.heller.senate.gov/public,90.32,2291.0
+N00028139,91216,hirono.senate.gov,Mazie,412200,20713.0,H001042,True,Hirono,,S361,K.,0,0.0,2018,ocd-division/country:us/state:hi,,D,202-224-6361,1,5,HI,junior,0,93,MazieHirono,https://www.hirono.senate.gov,98.92,1677.0
+N00029835,1030686,www.heinrich.senate.gov,Martin,412281,20930.0,H001046,True,Heinrich,,S359,,1,1.08,2018,ocd-division/country:us/state:nm,,D,202-224-5521,1,5,NM,junior,0,93,MartinHeinrich,http://www.heinrich.senate.gov,93.48,74517.0
+N00031688,85233,www.hoeven.senate.gov,John,412494,41107.0,H001061,True,Hoeven,,S344,,0,0.0,2022,ocd-division/country:us/state:nd,,R,202-224-2551,3,7,ND,senior,0,93,SenJohnHoeven,https://www.hoeven.senate.gov,100.0,41788.0
+N00033782,95414,www.heitkamp.senate.gov,Heidi,412554,41303.0,H001069,True,Heitkamp,,S360,,0,0.0,2018,ocd-division/country:us/state:nd,,D,202-224-2043,1,5,ND,junior,0,93,SenatorHeitkamp,http://www.heitkamp.senate.gov/public,74.19,41716.0
+N00036915,1018696,www.harris.senate.gov,Kamala,412678,,H001075,True,Harris,,S387,,0,0.0,2022,ocd-division/country:us/state:ca,,D,202-224-3553,3,1,CA,junior,0,93,SenKamalaHarris,https://www.harris.senate.gov,94.62,120012.0
+N00038397,67481,,Margaret,412680,,H001076,True,Hassan,,S388,,0,0.0,2022,ocd-division/country:us/state:nh,,D,202-224-3324,3,1,NH,junior,0,93,Senatorhassan,https://www.hassan.senate.gov,96.77,42552.0
+N00005582,5619,www.inhofe.senate.gov,James,300055,15424.0,I000024,True,Inhofe,,S236,M.,1,1.08,2020,ocd-division/country:us/state:ok,205 Russell Senate Office Building,R,202-224-4721,2,25,OK,senior,0,93,InhofePress,http://www.inhofe.senate.gov,100.0,27027.0
+N00002593,59135,,Johnny,400194,29909.0,I000055,True,Isakson,,S305,,24,25.81,2022,ocd-division/country:us/state:ga,,R,202-224-3643,3,13,GA,senior,0,93,SenatorIsakson,https://www.isakson.senate.gov,98.55,1721.0
+N00032546,62835,www.ronjohnson.senate.gov,Ron,412496,41111.0,J000293,True,Johnson,,S345,,0,0.0,2022,ocd-division/country:us/state:wi,,R,202-224-5323,3,7,WI,senior,0,93,SenRonJohnson,https://www.ronjohnson.senate.gov,100.0,126217.0
+N00027500,83701,www.klobuchar.senate.gov,Amy,412242,40700.0,K000367,True,Klobuchar,,S311,,0,0.0,2018,ocd-division/country:us/state:mn,302 Hart Senate Office Building,D,202-224-3244,1,11,MN,senior,0,93,,https://www.klobuchar.senate.gov,96.77,65092.0
+N00034580,37413,king.senate.gov,Angus,412545,41300.0,K000383,True,King,,S363,,0,0.0,2018,ocd-division/country:us/state:me,,I,202-224-5344,1,5,ME,junior,0,93,SenAngusKing,http://www.king.senate.gov,77.42,22381.0
+N00033177,49219,kaine.senate.gov,Tim,412582,41305.0,K000384,True,Kaine,,S362,,1,1.08,2018,ocd-division/country:us/state:va,,D,202-224-4024,1,5,VA,junior,0,93,SenKaineOffice,http://www.kaine.senate.gov,94.57,50772.0
+N00026823,1011723,,John,412679,,K000393,True,Kennedy,,S389,,0,0.0,2022,ocd-division/country:us/state:la,,R,202-224-4623,3,1,LA,junior,0,93,SenJohnKennedy,https://www.kennedy.senate.gov,96.77,35496.0
+N00009918,1552,www.leahy.senate.gov,Patrick,300065,14307.0,L000174,True,Leahy,,S057,J.,1,1.08,2022,ocd-division/country:us/state:vt,,D,202-224-4242,3,43,VT,senior,0,93,SenatorLeahy,https://www.leahy.senate.gov,98.91,53353.0
+N00031129,1033847,www.lankford.senate.gov,James,412464,21166.0,L000575,True,Lankford,,S378,,0,0.0,2022,ocd-division/country:us/state:ok,,R,202-224-5754,3,3,OK,junior,0,93,SenatorLankford,https://www.lankford.senate.gov,98.92,124938.0
+N00031696,9267977,www.lee.senate.gov,Mike,412495,41110.0,L000577,True,Lee,,S346,,0,0.0,2022,ocd-division/country:us/state:ut,,R,202-224-5444,3,7,UT,junior,0,93,SenMikeLee,https://www.lee.senate.gov/public,96.77,66395.0
+N00000270,260,markey.senate.gov,Edward,400253,14435.0,M000133,True,Markey,,S369,J.,1,1.08,2020,ocd-division/country:us/state:ma,,D,202-224-2742,2,5,MA,junior,0,93,SenMarkey,http://www.markey.senate.gov,94.57,26900.0
+N00006424,7476,www.mccain.senate.gov,John,300071,15039.0,M000303,True,McCain,,S197,,3,3.23,2022,ocd-division/country:us/state:az,,R,202-224-2235,3,31,AZ,senior,0,93,SenJohnMcCain,http://www.mccain.senate.gov,97.78,53270.0
+N00003389,2351,,Mitch,300072,14921.0,M000355,True,McConnell,,S174,,0,0.0,2020,ocd-division/country:us/state:ky,317 Russell Senate Office Building,R,202-224-2541,2,33,KY,senior,1,93,McConnellPress,http://www.mcconnell.senate.gov,97.85,53298.0
+N00000699,29608,menendez.senate.gov,Robert,400272,29373.0,M000639,True,Menendez,,S306,,0,0.0,2018,ocd-division/country:us/state:nj,528 Hart Senate Office Building,D,202-224-4744,1,12,NJ,senior,0,93,SenatorMenendez,https://www.menendez.senate.gov,96.77,26961.0
+N00005282,45469,www.moran.senate.gov/public/,Jerry,400284,29722.0,M000934,True,Moran,,S347,,1,1.08,2022,ocd-division/country:us/state:ks,,R,202-224-6521,3,7,KS,junior,0,93,JerryMoran,http://www.moran.senate.gov,98.91,542.0
+N00007876,25277,,Patty,300076,49308.0,M001111,True,Murray,,S229,,0,0.0,2022,ocd-division/country:us/state:wa,,D,202-224-2621,3,25,WA,senior,0,93,PattyMurray,http://www.murray.senate.gov/public,96.77,53358.0
+N00026050,1004138,www.murkowski.senate.gov,Lisa,300075,40300.0,M001153,True,Murkowski,,S288,,1,1.08,2022,ocd-division/country:us/state:ak,,R,202-224-6665,3,17,AK,senior,0,93,LisaMurkowski,https://www.murkowski.senate.gov,97.83,15841.0
+N00027566,1021270,murphy.senate.gov,Christopher,412194,20707.0,M001169,True,Murphy,,S364,S.,2,2.15,2018,ocd-division/country:us/state:ct,,D,202-224-4041,1,5,CT,junior,0,93,ChrisMurphyCT,https://www.murphy.senate.gov,96.7,17189.0
+N00027694,1012014,www.mccaskill.senate.gov,Claire,412243,40701.0,M001170,True,McCaskill,,S312,,2,2.15,2018,ocd-division/country:us/state:mo,503 Hart Senate Office Building,D,202-224-6154,1,11,MO,senior,0,93,McCaskillOffice,https://www.mccaskill.senate.gov,87.91,2109.0
+N00029303,1029842,,Jeff,412325,40908.0,M001176,True,Merkley,,S322,,0,0.0,2020,ocd-division/country:us/state:or,313 Hart Senate Office Building,D,202-224-3753,2,9,OR,junior,0,93,SenJeffMerkley,https://www.merkley.senate.gov,91.4,23644.0
+N00032838,62864,www.manchin.senate.gov,Joe,412391,40915.0,M001183,True,Manchin III,,S338,,0,0.0,2018,ocd-division/country:us/state:wv,306 Hart Senate Office Building,D,202-224-3954,1,9,WV,senior,0,93,Sen_JoeManchin,http://www.manchin.senate.gov/public,73.12,7547.0
+N00009926,1931,billnelson.senate.gov,Bill,300078,14651.0,N000032,True,Nelson,,S282,,0,0.0,2018,ocd-division/country:us/state:fl,716 Hart Senate Office Building,D,202-224-5274,1,17,FL,senior,0,93,SenBillNelson,https://www.billnelson.senate.gov,94.62,1606.0
+N00003682,31819,,Rob,400325,29386.0,P000449,True,Portman,,S349,,0,0.0,2022,ocd-division/country:us/state:oh,,R,202-224-3353,3,7,OH,junior,0,93,SenRobPortman,http://www.portman.senate.gov,96.77,27008.0
+N00029277,50199,peters.house.gov,Gary,412305,20923.0,P000595,True,Peters,,S380,,1,1.08,2020,ocd-division/country:us/state:mi,,D,202-224-6221,2,3,MI,junior,0,93,SenGaryPeters,https://www.peters.senate.gov,98.91,8749.0
+N00030836,9265241,,Rand,412492,41104.0,P000603,True,Paul,,S348,,1,1.08,2022,ocd-division/country:us/state:ky,,R,202-224-4343,3,7,KY,junior,0,93,,https://www.paul.senate.gov,90.22,117285.0
+N00035516,75920,www.perdue.senate.gov,David,412666,41501.0,P000612,True,Perdue,,S379,,0,0.0,2020,ocd-division/country:us/state:ga,,R,202-224-3521,2,3,GA,junior,0,93,sendavidperdue,http://www.perdue.senate.gov,98.92,151330.0
+N00000362,24239,,Jack,300081,29142.0,R000122,True,Reed,,S259,,0,0.0,2020,ocd-division/country:us/state:ri,728 Hart Senate Office Building,D,202-224-4642,2,21,RI,senior,0,93,SenJackReed,https://www.reed.senate.gov,96.77,27060.0
+N00005285,16354,,Pat,300083,14852.0,R000307,True,Roberts,,S260,,0,0.0,2020,ocd-division/country:us/state:ks,109 Hart Senate Office Building,R,202-224-4774,2,21,KS,senior,0,93,SenPatRoberts,http://www.roberts.senate.gov,98.92,26866.0
+N00029441,1020034,www.risch.senate.gov,Jim,412322,40902.0,R000584,True,Risch,,S323,,0,0.0,2020,ocd-division/country:us/state:id,483 Russell Senate Office Building,R,202-224-2752,2,9,ID,junior,0,93,SenatorRisch,http://www.risch.senate.gov,98.92,2919.0
+N00030612,87599,www.rubio.senate.gov/public/,Marco,412491,41102.0,R000595,True,Rubio,,S350,,1,1.08,2022,ocd-division/country:us/state:fl,,R,202-224-3041,3,7,FL,junior,0,93,SenRubioPress,http://www.rubio.senate.gov,96.74,1601.0
+N00035187,78317,,Mike,412669,41505.0,R000605,True,Rounds,,S381,,0,0.0,2020,ocd-division/country:us/state:sd,,R,202-224-5842,2,3,SD,junior,0,93,SenatorRounds,http://www.rounds.senate.gov,98.92,7455.0
+N00000528,994,www.sanders.senate.gov,Bernard,400357,29147.0,S000033,True,Sanders,,S313,,3,3.23,2018,ocd-division/country:us/state:vt,,I,202-224-5141,1,11,VT,junior,0,93,SenSanders,https://www.sanders.senate.gov,91.11,27110.0
+N00001093,5929,www.schumer.senate.gov,Charles,300087,14858.0,S000148,True,Schumer,,S270,E.,0,0.0,2022,ocd-division/country:us/state:ny,,D,202-224-6542,3,19,NY,senior,0,93,SenSchumer,https://www.schumer.senate.gov,95.7,26976.0
+N00009920,1859,www.shelby.senate.gov,Richard,300089,94659.0,S000320,True,Shelby,,S184,C.,0,0.0,2022,ocd-division/country:us/state:al,,R,202-224-5744,3,31,AL,senior,0,93,SenShelby,http://www.shelby.senate.gov,98.92,53266.0
+N00004118,45451,www.stabenow.senate.gov,Debbie,300093,29732.0,S000770,True,Stabenow,,S284,,0,0.0,2018,ocd-division/country:us/state:mi,731 Hart Senate Office Building,D,202-224-4822,1,17,MI,senior,0,93,SenStabenow,http://www.stabenow.senate.gov,97.85,515.0
+,44441,sessions.senate.gov,Jeff,300088,49700.0,S001141,False,Sessions,,S261,,39,65.0,2020,ocd-division/country:us/state:al,,R,202-224-4124,2,21,AL,,2,60,SenatorSessions,http://www.sessions.senate.gov/public,90.48,
+N00024790,22850,www.shaheen.senate.gov,Jeanne,412323,40906.0,S001181,True,Shaheen,,S324,,0,0.0,2020,ocd-division/country:us/state:nh,506 Hart Senate Office Building,D,202-224-2841,2,9,NH,senior,0,93,SenatorShaheen,https://www.shaheen.senate.gov,96.77,1663.0
+N00031782,623506,scott.senate.gov,Tim,412471,21173.0,S001184,True,Scott,,S365,,0,0.0,2022,ocd-division/country:us/state:sc,,R,202-224-6121,3,5,SC,junior,0,93,SenatorTimScott,https://www.scott.senate.gov,98.92,11940.0
+N00028138,87784,,Brian,412507,41112.0,S001194,True,Schatz,,S353,,1,1.08,2022,ocd-division/country:us/state:hi,,D,202-224-3934,3,5,HI,senior,0,93,SenBrianSchatz,http://www.schatz.senate.gov,95.65,17852.0
+N00035544,77429,www.sasse.senate.gov,Ben,412671,41503.0,S001197,True,Sasse,,S382,,1,1.08,2020,ocd-division/country:us/state:ne,,R,202-224-4224,2,3,NE,junior,0,93,SenSasse,http://www.sasse.senate.gov/public,97.83,150182.0
+N00035774,1023262,,Dan,412665,41500.0,S001198,True,Sullivan,,S383,,1,1.08,2020,ocd-division/country:us/state:ak,,R,202-224-3004,2,3,AK,junior,0,93,SenDanSullivan,https://www.sullivan.senate.gov/,100.0,114964.0
+,9278255,,Luther,412734,,S001202,True,Strange,,S392,,0,0.0,2020,ocd-division/country:us/state:al,,R,,2,1,AL,junior,0,33,,,100.0,
+N00004572,45552,www.thune.senate.gov,John,400546,29754.0,T000250,True,Thune,,S303,,0,0.0,2022,ocd-division/country:us/state:sd,,R,202-224-2321,3,13,SD,senior,0,93,SenJohnThune,https://www.thune.senate.gov,98.92,398.0
+N00001489,7958,,Patrick,400408,29935.0,T000461,True,Toomey,,S351,J.,1,1.08,2022,ocd-division/country:us/state:pa,,R,202-224-4254,3,7,PA,junior,0,93,SenToomey,http://www.toomey.senate.gov,97.83,24096.0
+N00027605,1020176,www.tester.senate.gov,Jon,412244,40702.0,T000464,True,Tester,,S314,,0,0.0,2018,ocd-division/country:us/state:mt,311 Hart Senate Office Building,D,202-224-2644,1,11,MT,senior,0,93,SenatorTester,http://www.tester.senate.gov,87.1,20928.0
+N00035492,77055,www.tillis.senate.gov,Thom,412668,41504.0,T000476,True,Tillis,,S384,,5,5.38,2020,ocd-division/country:us/state:nc,,R,202-224-6342,2,3,NC,junior,0,93,senthomtillis,https://www.tillis.senate.gov/public/index.cfm/home,100.0,57717.0
+N00006561,10075,,Tom,400413,29924.0,U000039,True,Udall,,S326,,1,1.08,2020,ocd-division/country:us/state:nm,531 Hart Senate Office Building,D,202-224-6621,2,10,NM,senior,0,93,SenatorTomUdall,http://www.tomudall.senate.gov,89.13,22658.0
+N00013820,20756,www.vanhollen.senate.gov,Chris,400415,20330.0,V000128,True,Van Hollen,,S390,,0,0.0,2022,ocd-division/country:us/state:md,,D,202-224-4654,3,1,MD,junior,0,93,ChrisVanHollen,https://www.vanhollen.senate.gov,96.77,6098.0
+N00003280,18203,www.wicker.senate.gov,Roger,400432,29534.0,W000437,True,Wicker,,S318,,0,0.0,2018,ocd-division/country:us/state:ms,555 Dirksen Senate Office Building,R,202-224-6253,1,11,MS,junior,0,93,SenatorWicker,https://www.wicker.senate.gov,96.77,21926.0
+N00007724,1962,www.wyden.senate.gov,Ron,300100,14871.0,W000779,True,Wyden,,S247,,0,0.0,2022,ocd-division/country:us/state:or,,D,202-224-5244,3,22,OR,senior,1,93,RonWyden,https://www.wyden.senate.gov,91.4,27036.0
+N00027533,92235,www.whitehouse.senate.gov,Sheldon,412247,40704.0,W000802,True,Whitehouse,,S316,,0,0.0,2018,ocd-division/country:us/state:ri,,D,202-224-2921,1,11,RI,junior,0,93,SenWhitehouse,https://www.whitehouse.senate.gov,97.85,2572.0
+N00002097,7630,www.warner.senate.gov/public/,Mark,412321,40909.0,W000805,True,Warner,,S327,,3,3.23,2020,ocd-division/country:us/state:va,703 Hart Senate Office Building,D,202-224-2023,2,9,VA,senior,0,93,MarkWarner,http://www.warner.senate.gov,85.56,535.0
+N00033492,1023023,www.warren.senate.gov,Elizabeth,412542,41301.0,W000817,True,Warren,,S366,,0,0.0,2018,ocd-division/country:us/state:ma,,D,202-224-4543,1,5,MA,senior,0,93,SenWarren,https://www.warren.senate.gov,91.4,141272.0
+N00030670,1033743,www.young.senate.gov,Todd,412428,21133.0,Y000064,True,Young,,S391,,0,0.0,2022,ocd-division/country:us/state:in,,R,202-224-5623,3,1,IN,junior,0,93,RepToddYoung,https://www.young.senate.gov,100.0,120345.0
